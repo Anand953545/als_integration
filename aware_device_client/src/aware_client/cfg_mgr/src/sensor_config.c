@@ -7,7 +7,7 @@
 #include "config_parser.h"
 #include "cfg_mgr.h"
 #include "qapi_sensor_mgr.h"
-#include "sensor_mgr_utils.h"
+#include "sensor_mgr_utils.h"  
 
 int sensor_config_load(sensor_config_t *sensor_cfg, uint8_t sensor_id);
 
